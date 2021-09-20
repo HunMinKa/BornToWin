@@ -11,7 +11,7 @@
 - 군필여부: 해병대 만기전역
 - 취미: 보디빌딩
 - Email: rkgnsals7@gmail.com
-- GitHub: [github.com/jspiner](https://github.com/HunMinKa)
+- GitHub: [github.com/HunMinKa](https://github.com/HunMinKa)
 
 ```
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
@@ -20,21 +20,15 @@
 ![깃허브](https://github.com/HunMinKa/RESUME/raw/master/images/github.png)
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
+- (주)하이케어넷(2021 ~ 진행중)
+- (주)피엔제이컨설팅(2018 ~ 2021)
 
 ## 단체경력
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
+- PS LAB(2012 ~ 2018)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 가락고등학교
+- 한신대학교 정보통신학과 졸업
 
 ## 사용 기술
 ### Android
