@@ -268,10 +268,10 @@
 
 
   -사용기술
-  FrontEnd: Javascript,Devexpress
-  BackEnd: .NET framework 3.5
-  Server: WindowsServer
-  SQL: MS-SQL
+  - FrontEnd: Javascript,Devexpress
+  - BackEnd: .NET framework 3.5
+  - Server: WindowsServer
+  - SQL: MS-SQL
 
 ## 오픈소스 기여
 
