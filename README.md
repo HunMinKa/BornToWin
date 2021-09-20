@@ -79,7 +79,6 @@
 
 ## 프로젝트 이력
 
-
 <img src='https://github.com/HunMinKa/BornToWin/blob/main/images/lg.JPG' width="80" />
 
 ### LG전자 PMS 구축
@@ -119,7 +118,6 @@
   
   사용기술
   - PowerApps 및 Flow
-
 
 <img src="https://github.com/HunMinKa/BornToWin/blob/main/images/honda.JPG" width="80" height="80"/>
 
@@ -246,7 +244,6 @@
   - Server: WindowsServer
   - SQL: MS-SQL
 
-
 <img src="https://github.com/HunMinKa/BornToWin/blob/main/images/si.JPG" width="80" height="80"/>
 
 ### 실리콘 마이터스 MIS 구축
@@ -278,6 +275,53 @@
   - BackEnd: .NET framework 3.5
   - Server: WindowsServer
   - SQL: MS-SQL
+
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/hicare.JPG" width="80" height="80"/>
+
+### 비대면 진료 기능 서비스 웹 및 앱을 위한 REST-API 구축
+ 
+ 프로젝트 목표
+  - 비대면 진료 기능 서비스의 노후화 및 안정성 약화로 인하여 기존에 .NET으로 구성되었던REST-API를 Nest.js와 TypeORM으로 구성하여 안정성 및 고객사별 SQL 대응능력 향상
+
+  개발기간 : 2021.04 - 2021.06
+  
+  개발목록
+  1. 비대면 진료 서비스를 위한 웹 및 앱 연동 REST-API
+  - 안드로이드,IOS를 연동을 위한 비대면 진료서비스 데이터 입출력 REST-API 기능
+  - RSA,JWT를 이용한 로그인 암호화 프로세스 개발
+  - AES256을 이용한 데이터 암호화 프로세스 개발
+  2. Docker와 Jenkins를 이용한 CI/CD 구축
+  3.TypeORM을 통한 SQL별 대응 시스템 구축
+  
+  사용기술
+  - BackEnd: Node.js,Nest.js
+  - Server: AWS
+  - SQL: TypeORM
+
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/hicare.JPG" width="80" height="80"/>
+
+### 비비대면 진료 기능 서비스 의사 관리자 사이트 구축
+ 
+ 프로젝트 목표
+  - 기존 비대면 진료기능 서비스의 노후화로 인하여 웹 표준 양식 및 반응형 웹 디자인을 통한 사이트 리뉴얼
+
+  개발기간 : 2021.06 - 2021.09
+  
+  개발목록
+  1. 비대면 진료를 통환 환자 관리
+  - 환자 관리
+  - 환자별 측정기기를 이용한 측정 데이터 관리
+  - 환자와 의사간의 화상 통화및 실시간 채팅
+  - 환자별 진료차및 화상통화 기록 파일 다운로드/업로드
+  - 환자와 의사간의 메시지 기능
+  - 환자별 건강검진 설문조사 관리
+
+  2. Docker와 Jenkins를 이용한 CI/CD 구축
+
+  사용기술
+  - FrontEnd: React,TypeScript,Devexpress
+  - Server: AWS
+  - SQL: TypeORM
 
 ## 오픈소스 기여
 
