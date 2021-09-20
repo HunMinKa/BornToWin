@@ -236,10 +236,10 @@
 
 
   -사용기술
-  FrontEnd: Javascript,Devexpress,d3.js,canvas.js
-  BackEnd: .NET framework 3.5
-  Server: WindowsServer
-  SQL: MS-SQL
+  -FrontEnd: Javascript,Devexpress,d3.js,canvas.js
+  -BackEnd: .NET framework 3.5
+  -Server: WindowsServer
+  -SQL: MS-SQL
 
 
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
