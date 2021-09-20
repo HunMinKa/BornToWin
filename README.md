@@ -121,7 +121,7 @@
   - PowerApps 및 Flow
 
 
-<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/honda.JPGg" width="80" height="80"/>
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/honda.JPG" width="80" height="80"/>
 
 ### 혼다코리아 SharePoint 온라인 시스템 구축
 
