@@ -80,7 +80,7 @@
 ## 프로젝트 이력
 
 
-<img src='../images/lg.jpg' width="80" />
+<img src='https://github.com/HunMinKa/BornToWin/blob/main/images/lg.JPG' width="80" />
 
 ### LG전자 PMS 구축
 
