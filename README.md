@@ -15,7 +15,7 @@
 개발자로서의 인성과 성장을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
-![깃허브](https://github.com/HunMinKa//raw/master/images/github.png)
+![깃허브](https://github.com/HunMinKa/raw/master/images/github.png)
 
 ## 회사경력
 - (주)하이케어넷(2021 ~ 진행중)
