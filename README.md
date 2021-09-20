@@ -234,12 +234,11 @@
   - My Project ( 사용자별 프로젝트 관리)
   - ProjectDoucunt 및 e-approval
 
-
   -사용기술
-  -FrontEnd: Javascript,Devexpress,d3.js,canvas.js
-  -BackEnd: .NET framework 3.5
-  -Server: WindowsServer
-  -SQL: MS-SQL
+  - FrontEnd: Javascript,Devexpress,d3.js,canvas.js
+  - BackEnd: .NET framework 3.5
+  - Server: WindowsServer
+  - SQL: MS-SQL
 
 
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
@@ -266,7 +265,7 @@
   - 이전 엑셀로 저장된 문서 Data Migration
 
 
-  -사용기술
+   -사용기술
   - FrontEnd: Javascript,Devexpress
   - BackEnd: .NET framework 3.5
   - Server: WindowsServer
