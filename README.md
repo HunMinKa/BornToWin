@@ -80,7 +80,7 @@
 ## 프로젝트 이력
 
 
-<img src='./images/toonies.png' width="80" />
+<img src='./images/lg.jpg' width="80" />
 
 ### LG전자 PMS 구축
 
@@ -102,7 +102,7 @@
   - Server: WindowsServer
   - SQL: MS-SQL
 
-<img src='./images/ridibooks.png' width="80" />
+<img src='./images/dupont.jpg' width="80" />
 
 ### 듀폰 코리아 SharePoint Online 전자 결재 개발
 
@@ -121,7 +121,7 @@
   - PowerApps 및 Flow
 
 
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+<img src="./images/honda.jpg" width="80" height="80"/>
 
 ### 혼다코리아 SharePoint 온라인 시스템 구축
 
@@ -147,7 +147,7 @@
   - Server: SharePoint
   - 기타기술: Python
 
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+<img src="lg.jpg" width="80" height="80"/>
 
 ### 실리콘 마이터스 PMS 구축
 
