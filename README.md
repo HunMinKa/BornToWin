@@ -339,7 +339,7 @@
 - React - TypeScript 기반의 Front-end
 - tokbox
 - test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/HunMinKa/VidelCall)에서 보실 수 있습니다.
+- 자세한 내용은 [이 github 저장소](https://github.com/HunMinKa/VideoCall)에서 보실 수 있습니다.
 
 ### Nest.js 블로그 
 - 개인 프로젝트
