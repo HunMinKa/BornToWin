@@ -103,10 +103,10 @@
   - 연동된 정보의 데이터 시각화를 위한 Pivot Data Graph 현황
   
   사용기술
-  FrontEnd: Javascript
-  BackEnd: .NET framework 3.5
-  Server: WindowsServer
-  SQL: MS-SQL
+  - FrontEnd: Javascript
+  - BackEnd: .NET framework 3.5
+  - Server: WindowsServer
+  - SQL: MS-SQL
 
 <img src='./images/ridibooks.png' width="80" />
 
@@ -122,7 +122,7 @@
   
   
   사용기술
-  PowerApps 및 Flow
+  - PowerApps 및 Flow
 
 
 <img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
@@ -143,10 +143,10 @@
   4. 부서 및 팀별 분석을 통한 최적화된 업무 기능및 전자결재 기능 개발
   
   사용기술
-  FrontEnd: React.js,Typescript
-  BackEnd: Node.js
-  Server: SharePoint
-  기타기술: Python
+  - FrontEnd: React.js,Typescript
+  - BackEnd: Node.js
+  - Server: SharePoint
+  - 기타기술: Python
 
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
 
@@ -180,10 +180,10 @@
   - 이전 시스템(DPMS 1.0) Data Migration
 
   사용기술
-  FrontEnd: Javascript,Devexpress,d3.js,canvas.js
-  BackEnd: .NET framework 3.5
-  Server: WindowsServer
-  SQL: MS-SQL
+  - FrontEnd: Javascript,Devexpress,d3.js,canvas.js
+  - BackEnd: .NET framework 3.5
+  - Server: WindowsServer
+  - SQL: MS-SQL
 
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
 
@@ -214,10 +214,10 @@
   - 기존 엑셀 문서로 관리해왔던 Timesheet Data Migration
 
   사용기술
-  FrontEnd: Javascript,Devexpress
-  BackEnd: .NET framework 3.5
-  Server: WindowsServer
-  SQL: MS-SQL
+  - FrontEnd: Javascript,Devexpress
+  - BackEnd: .NET framework 3.5
+  - Server: WindowsServer
+  - SQL: MS-SQL
   
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
 
@@ -234,7 +234,7 @@
   - My Project ( 사용자별 프로젝트 관리)
   - ProjectDoucunt 및 e-approval
 
-  -사용기술
+  사용기술
   - FrontEnd: Javascript,Devexpress,d3.js,canvas.js
   - BackEnd: .NET framework 3.5
   - Server: WindowsServer
@@ -265,7 +265,7 @@
   - 이전 엑셀로 저장된 문서 Data Migration
 
 
-   -사용기술
+  사용기술
   - FrontEnd: Javascript,Devexpress
   - BackEnd: .NET framework 3.5
   - Server: WindowsServer
