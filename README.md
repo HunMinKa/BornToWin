@@ -14,7 +14,7 @@
 - GitHub: [github.com/HunMinKa](https://github.com/HunMinKa)
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+개발자로서의 인성과 성장을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
 ![깃허브](https://github.com/HunMinKa/RESUME/raw/master/images/github.png)
@@ -31,38 +31,50 @@
 - 한신대학교 정보통신학과 졸업
 
 ## 사용 기술
-### Android
-- Kotlin, Kotlin DSL
-- Dagger
-- rxJava
-- Epoxy
-- MVP, MVVM, MvRx Pattern
-- DataBinding
-- lint + test code
-
 ### Backend
 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
+- .NET
+- node.js
+- java
+- nest.js
 - docker 
 
 ### Frontend
 간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
-- React / KotlinJS
+- React
+- Typescirpt
+- Javascirpt
+- d3
+- canvas
+- DevExterme
+
+### DB
+간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
+- MS-SQL
+- MY-SQL
+
+### Server
+간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
+- WindowServer
+- AWS
+- ApachTomcat
+- Nginx
+
+### ETC
+간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
+- SPFX
+- PowerApps & Flow
+
 
 그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
+- 팀 : 기능조직 / 목적조직 
+- 개발방법론: Agile 
 - 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / Trello / Asana
-- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 디자인 협업 : Zeplin / Figma
-- 버전관리 : Git / GitFlow
-
+- 이슈관리 : Github / Jira / CodeBeamer
+- CI/CD : Jenkins 
+- 디자인 협업 : Zeplin 
+- 버전관리 : Git
+- 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
