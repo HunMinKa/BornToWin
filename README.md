@@ -102,7 +102,7 @@
   - ALM Task간의 연동을 위한 Mapping 기능
   - 연동된 정보의 데이터 시각화를 위한 Pivot Data Graph 현황
   
-  -사용기술
+  사용기술
   FrontEnd: Javascript
   BackEnd: .NET framework 3.5
   Server: WindowsServer
@@ -121,7 +121,7 @@
   3. 문서 전산화를 통한 승인 프로세스 설정 기능
   
   
-  -사용기술
+  사용기술
   PowerApps 및 Flow
 
 
@@ -142,7 +142,7 @@
   3. 기존 인트라넷 시스템에서 신규 인트라넷 시스템으로의 Data Migration
   4. 부서 및 팀별 분석을 통한 최적화된 업무 기능및 전자결재 기능 개발
   
-  -사용기술
+  사용기술
   FrontEnd: React.js,Typescript
   BackEnd: Node.js
   Server: SharePoint
@@ -179,7 +179,7 @@
   - 공지사항 관리 기능 및 사용자 노출 기능
   - 이전 시스템(DPMS 1.0) Data Migration
 
-  -사용기술
+  사용기술
   FrontEnd: Javascript,Devexpress,d3.js,canvas.js
   BackEnd: .NET framework 3.5
   Server: WindowsServer
@@ -213,8 +213,7 @@
   - 그룹웨어 사용자 정보 연동
   - 기존 엑셀 문서로 관리해왔던 Timesheet Data Migration
 
-
-  -사용기술
+  사용기술
   FrontEnd: Javascript,Devexpress
   BackEnd: .NET framework 3.5
   Server: WindowsServer
