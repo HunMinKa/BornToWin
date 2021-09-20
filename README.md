@@ -323,30 +323,31 @@
 
 ## 오픈소스 기여
 
-
-### Nest.js 블로그 
-- 개인 프로젝트
-- 디자인 협업툴 Zeplin을 사용할때, 도움을 주는 유틸
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/ZeplinDiff)에서 보실 수 있습니다.
-
 ### RSA 암호화 알고리즘
 - 개인 프로젝트
-- rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
+- Node.js 기반 RSA 암호화 알고리즘 구현
 - test coverage 83%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
+- 자세한 내용은 [이 github 저장소](https://github.com/HunMinKa/Cryto)에서 보실 수 있습니다.
 
 ### AES 암호화 알고리즘
 - 개인 프로젝트
-- event 기반 error handler
+- Node.js 기반  AES 암호화 알고리즘
 - test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
+- 자세한 내용은 [이 github 저장소](https://github.com/HunMinKa/Cryto)에서 보실 수 있습니다.
 
 ### 화상통화 및 실시간 채팅 
 - 개인 프로젝트
-- event 기반 error handler
+- Nest.js 기반 화상 통화 API
+- React - TypeScript 기반의 Front-end
+- tokbox
 - test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
+- 자세한 내용은 [이 github 저장소](https://github.com/HunMinKa/VidelCall)에서 보실 수 있습니다.
 
+### Nest.js 블로그 
+- 개인 프로젝트
+- Nest.js 와 Angualr.js 를 이용한 블로그 페이지 구현
+- - test coverage 95%
+- 자세한 내용은 [이 github 저장소](https://github.com/HunMinKa/Nest)에서 보실 수 있습니다.
 
 ## 수상 경력
 
