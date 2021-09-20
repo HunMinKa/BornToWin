@@ -102,7 +102,7 @@
   - Server: WindowsServer
   - SQL: MS-SQL
 
-<img src='./images/dupont.jpg' width="80" />
+<img src='https://github.com/HunMinKa/BornToWin/blob/main/images/dupont.JPG' width="80" />
 
 ### 듀폰 코리아 SharePoint Online 전자 결재 개발
 
@@ -121,7 +121,7 @@
   - PowerApps 및 Flow
 
 
-<img src="./images/honda.jpg" width="80" height="80"/>
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/honda.JPGg" width="80" height="80"/>
 
 ### 혼다코리아 SharePoint 온라인 시스템 구축
 
@@ -147,7 +147,7 @@
   - Server: SharePoint
   - 기타기술: Python
 
-<img src="lg.jpg" width="80" height="80"/>
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/si.JPG" width="80" height="80"/>
 
 ### 실리콘 마이터스 PMS 구축
 
@@ -185,7 +185,7 @@
   - Server: WindowsServer
   - SQL: MS-SQL
 
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/si.JPG" width="80" height="80"/>
 
 ### 실리콘 마이터스 TCS 구축
 
@@ -221,7 +221,7 @@
   - Server: WindowsServer
   - SQL: MS-SQL
   
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/abov.JPG" width="80" height="80"/>
 
 ### 어보브 반도체 시스템 고도화
 
@@ -247,7 +247,7 @@
   - SQL: MS-SQL
 
 
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+<img src="https://github.com/HunMinKa/BornToWin/blob/main/images/si.JPG" width="80" height="80"/>
 
 ### 실리콘 마이터스 MIS 구축
 
