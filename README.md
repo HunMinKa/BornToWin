@@ -17,7 +17,7 @@
 개발자로서의 인성과 성장을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
-![깃허브](https://github.com/HunMinKa/RESUME/raw/master/images/github.png)
+![깃허브](https://github.com/HunMinKa//raw/master/images/github.png)
 
 ## 회사경력
 - (주)하이케어넷(2021 ~ 진행중)
@@ -281,37 +281,33 @@
 
 ## 오픈소스 기여
 
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
 
-### ZeplinDiff
+### Nest.js 블로그 
 - 개인 프로젝트
 - 디자인 협업툴 Zeplin을 사용할때, 도움을 주는 유틸
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/ZeplinDiff)에서 보실 수 있습니다.
 
-### CacheBank
+### RSA 암호화 알고리즘
 - 개인 프로젝트
 - rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
 - test coverage 83%
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
 
-### SafeExecutor 
+### AES 암호화 알고리즘
 - 개인 프로젝트
 - event 기반 error handler
 - test coverage 95%
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
 
-### TedPermission [Contributor]
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
+### 화상통화 및 실시간 채팅 
+- 개인 프로젝트
+- event 기반 error handler
+- test coverage 95%
+- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
 
-### RxAndroid [Contributor]
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 수상 경력
-취미로 해커톤을 종종 나가곤 합니다. <br/>
-**프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
-해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
-#### 세종대학교 메이커톤 2020 - 우수상
-- 수상 날짜 : 2020년 12
+#### “인터넷과 SW활용” 학부논문 및 아이디어 공모전
+- 장려상
+- 수상 날짜 : 2017년 10
