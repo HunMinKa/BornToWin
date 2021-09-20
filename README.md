@@ -6,7 +6,7 @@
 ![status](https://img.shields.io/badge/hired-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지](https://github.com/HunMinKa/BornToWin/images/profile.jpg)
 - 이름: 가훈민
 - 군필여부: 해병대 만기전역
 - 취미: 보디빌딩
