@@ -7,17 +7,17 @@
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+- 이름: 가훈민
+- 군필여부: 해병대 만기전역
+- 취미: 보디빌딩
+- Email: rkgnsals7@gmail.com
+- GitHub: [github.com/jspiner](https://github.com/HunMinKa)
+
 ```
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
+![깃허브](https://github.com/HunMinKa/RESUME/raw/master/images/github.png)
 
 ## 회사경력
 - [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
