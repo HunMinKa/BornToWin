@@ -53,7 +53,6 @@
 ### Server
 - WindowServer
 - AWS
-- ApachTomcat
 - Nginx
 
 ### ETC
