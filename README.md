@@ -6,18 +6,18 @@
 ## 소개
 ![프로필이미지](https://github.com/HunMinKa/BornToWin/blob/8c1903176fafb0546f295be3ece80a935b59d207/images/profile2.JPG)
 - 이름: 가훈민
-- 군필여부: 해병대 만기전역
-- 취미: 보디빌딩
+- 취미: 운동
 - Email: rkgnsals7@gmail.com
 - GitHub: [github.com/HunMinKa](https://github.com/HunMinKa)
 
 ```
 개발자로서의 인성과 성장을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+
 ```
 
 ## 회사경력
 - (주)하이케어넷(2021 ~ 진행중)
-- (주)피엔제이컨설팅(2018 ~ 2021)
+- (주)피엔제이컨설팅(2018 ~ 2022)
 
 ## 단체경력
 - 한신대학교 PS LAB(2012 ~ 2018)
@@ -29,17 +29,13 @@
 ## 사용 기술
 ### Backend
 - .NET
-- node.js
-- java
-- nest.js
-- docker 
+-  Nest.js
+-  Typescirpt
 
 ### Frontend
 - React
 - Typescirpt
-- Javascirpt
-- d3
-- canvas
+- Next.js
 - DevExterme
 
 ### DB
@@ -47,23 +43,9 @@
 - MY-SQL
 
 ### Server
-- WindowServer
 - AWS
 - Nginx
-
-### ETC
-- SPFX
-- PowerApps & Flow
-
-
-### 자격요건
-- 팀 : 기능조직 / 목적조직 
-- 개발방법론: Agile 
-- 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / CodeBeamer
-- CI/CD : Jenkins 
-- 디자인 협업 : Zeplin 
-- 버전관리 : Git
+- Docker
 
 ### TODO
 **다양**을 배우는건 언제나 즐거운 일입니다. <br/>
